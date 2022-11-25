@@ -4,12 +4,12 @@ This project was created using [PyBridge](https://github.com/hbisneto/PyBridge)
 
 ## Requirements
 
-BolhaDev requires Python 3.10.7 or later to run
+BolhaDev requires Python 3.9 or later to run
 
 ## Installation
 
 ```
-pip install BolhaDev
+NOT AVAILABLE ON PIP
 ```
 
 ## External Links

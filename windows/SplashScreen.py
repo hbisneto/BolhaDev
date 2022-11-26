@@ -20,4 +20,6 @@ else:
 print("="*80)
 print(f'[{SoftwareName} for Windows] - Running...')
 print("="*80)
+print(f'>> Checking Twitter connection. Please wait...')
+print("="*80)
 print()
